@@ -1,1 +1,13 @@
 # NLP_Project_Group35
+# Saved Models Access
+
+Due to the large size of the saved models, they have been uploaded to Google Drive. Below are the links to access each of the models:
+
+### Llama 3 7B Model
+- [Llama3 7B Model](https://drive.google.com/drive/folders/1U2xq7F5AlAaO2c7Ul_mbkzfRY2gsUiBz?usp=sharing)
+
+### Gemma 7B Model
+- [Gemma 7B Model](https://drive.google.com/drive/folders/1OQuVukv9IHrRryhoiBTZ9acnLGBzM_t9?usp=sharing)
+
+### Mistral 7B Model
+- [Mistral 7B Model](https://drive.google.com/drive/folders/1PQdeEZtxxPrGuelUfcHozD7nkU3bO6ar?usp=sharing)
