@@ -11,3 +11,6 @@ Due to the large size of the saved models, they have been uploaded to Google Dri
 
 ### Mistral 7B Model
 - [Mistral 7B Model](https://drive.google.com/drive/folders/1PQdeEZtxxPrGuelUfcHozD7nkU3bO6ar?usp=sharing)
+
+### T5 Model
+- [T5 Model](https://drive.google.com/drive/folders/1nmffTljwJmP4QeWtkkPOqr1BsoA-TI3B?usp=sharing)
