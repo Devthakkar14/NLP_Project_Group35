@@ -4,7 +4,7 @@
 Due to the large size of the saved models, they have been uploaded to Google Drive. Below are the links to access each of the models:
 
 ### GPT2 Model
-- [GPT2 Model]([https://drive.google.com/drive/folders/1nmffTljwJmP4QeWtkkPOqr1BsoA-TI3B?usp=sharing](https://drive.google.com/drive/folders/1X1Caq_NZ3UBZ-ZGlfC5pdLqOJ6lBL90U?usp=sharing))
+- [GPT2 Model](https://drive.google.com/drive/folders/1X1Caq_NZ3UBZ-ZGlfC5pdLqOJ6lBL90U)
 
 ### Llama 3 7B Model
 - [Llama3 7B Model](https://drive.google.com/drive/folders/1U2xq7F5AlAaO2c7Ul_mbkzfRY2gsUiBz?usp=sharing)
